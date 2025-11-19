@@ -38,6 +38,7 @@ This was the output of the code, when I typed: 127.0.0.1:5000/employees
 Click here ---> http://localhost:5000/employees
 
 This was the output of the code, when I typed: 127.0.0.1:5000/employees/1
+Click here ----> http://localhost:5000/employees/2
 
 
 
